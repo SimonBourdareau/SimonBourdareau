@@ -1,8 +1,4 @@
-# Simon Bourdareau
-
-Postdoctoral Associate then Research Scientist at the [Stowers Institute](https://www.stowers.org), Kansas City, Missouri, USA.
-
-Welcome!
+Welcome to my repository!
 Here are tools I wrote, feel free to explore.
 
 I will update that repository with upcoming software and analysis code from publications.
