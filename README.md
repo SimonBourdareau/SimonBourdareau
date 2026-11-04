@@ -1,16 +1,18 @@
-## Hi there 👋
+# Simon Bourdareau
 
-<!--
-**SimonBourdareau/SimonBourdareau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Postdoctoral Associate then Research Scientist at the [Stowers Institute](https://www.stowers.org), Kansas City, Missouri, USA.
 
-Here are some ideas to get you started:
+I write tools in C++: for sequencing data, and for music instruments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Bioinformatics Tools
+
+| Project | What it does |
+|---|---|
+| [barcodeNinja](https://github.com/SimonBourdareau/barcodeNinja) | Flexible demultiplexing of combinatorial barcodes in FASTQ files (C++) |
+
+## Editors for Music Instruments
+
+| Project | What it does |
+|---|---|
+| [lumipaint](https://github.com/SimonBourdareau/lumipaint) | Per-note colour control for ROLI LUMI Keys / Piano M (C++) |
+<!-- | [Joué Revival](https://github.com/SimonBourdareau/YOUR-REPO-NAME) | Editor for the Joué instrument: libraries, live instrument, module designer (C++, Windows, macOS, Linux) | -->
