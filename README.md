@@ -2,7 +2,10 @@
 
 Postdoctoral Associate then Research Scientist at the [Stowers Institute](https://www.stowers.org), Kansas City, Missouri, USA.
 
-I write tools in C++: for sequencing data, and for music instruments.
+Welcome!
+Here are tools I wrote, feel free to explore.
+
+I will update that repository with upcoming software and analysis code from publications.
 
 ## Bioinformatics Tools
 
