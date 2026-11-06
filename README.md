@@ -14,4 +14,4 @@ I will update that repository with upcoming software and analysis code from publ
 | Project | What it does |
 |---|---|
 | [lumipaint](https://github.com/SimonBourdareau/lumipaint) | Per-note colour control for ROLI LUMI Keys / Piano M (C++) |
-<!-- | [Joué Revival](https://github.com/SimonBourdareau/YOUR-REPO-NAME) | Editor for the Joué instrument: libraries, live instrument, module designer (C++, Windows, macOS, Linux) | -->
+| [Joué Editor Revival](https://github.com/SimonBourdareau/Joue_editor_revival) | Editor for the Joué instrument: libraries, live instrument, module designer (C++, Windows, macOS, Linux) |
