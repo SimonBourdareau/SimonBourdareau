@@ -6,7 +6,7 @@ but also code I developed in my free time essentially oriented towards music exp
 
 I will update that repository with upcoming software and analysis code from publications, so keep an eye on it.
 
-Because mixing two activities on a signel github can make it unreadable, I list below the projects by themes:
+Because mixing two activities on a single github can make it unreadable, I list below the projects by themes:
 
 ## Bioinformatics Tools
 
