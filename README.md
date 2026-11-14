@@ -16,5 +16,5 @@ Mixing two activities on one account can make it hard to read, so the projects a
 
 | Project | What it does | Language / platforms |
 |---|---|---|
-| [lumipaint](https://github.com/SimonBourdareau/lumipaint) | Per-note colour control for ROLI LUMI Keys / Piano M | C++ |
+| [lumipaint](https://github.com/SimonBourdareau/lumipaint) | Per-note colour control for ROLI LUMI Keys / Piano M | C++, Windows / macOS, CLAP / VST3 / AU |
 | [Joué Editor Revival](https://github.com/SimonBourdareau/Joue_editor_revival) | Editor for the Joué instrument: libraries, live instrument view, module designer | C++, Windows / macOS (Linux untested with hardware) |
