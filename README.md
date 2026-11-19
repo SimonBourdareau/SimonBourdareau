@@ -12,6 +12,12 @@ Mixing two activities on one account can make it hard to read, so the projects a
 |---|---|---|
 | [barcodeNinja](https://github.com/SimonBourdareau/barcodeNinja) | Flexible demultiplexing of combinatorial barcodes in FASTQ files | C++ |
 
+## Visualisation
+
+| Project | What it does | Language |
+|---|---|---|
+| [brouillet](https://github.com/SimonBourdareau/brouillet) | Colour gradient specifications: contrast curves, out-of-range colours, one object for ggplot2 scales or value-to-colour functions | R |
+
 ## Editors for Music Instruments
 
 | Project | What it does | Language / platforms |
